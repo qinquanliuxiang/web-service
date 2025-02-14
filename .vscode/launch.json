@@ -12,7 +12,7 @@
       "program": "${workspaceFolder}/main.go",
       "env": {
         "CONFIG_PATH": "${workspaceFolder}/config.yaml",
-        "CASBIN_MODE_PATH": "${workspaceFolder}/rbac_model.conf"
+        "CASBIN_MODE_PATH": "${workspaceFolder}/model.conf"
       },
       "args": [
         "run"
